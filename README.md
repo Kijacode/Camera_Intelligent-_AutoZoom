@@ -1,16 +1,36 @@
-# iapp
+# Camera Intelligent Autozoom🎓   
 
-A new Flutter project.
+This application is the working task for GSOC(Google Summer Of Code)  which allow individual to take photo and intelligent autozoom within it
+## Get started
+-clone the project by using
+  **git clone <project url>**
+-Run **flutter run**
+ 
+ 
+ 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Technologies
+1. Flutter
+2. Camera core plugin
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How can you support ?
+Why not star this repo? It will surely motivate and push me to innovate for more community solutions.
+  
+## Let Be Friends
+
+  1. [Twitter]
+  2.  [Facebook]
+  3.  [Linkedin]
+  
+  
+  
+  
+  [Twitter]: https://twitter.com/kijacode
+  [Facebook]: https://www.facebook.com/danford.kija
+  [Linkedin]: https://www.linkedin.com/in/danford-kija-03b261112/?msgConversationId=6577261668651405312&msgOverlay=true
+ 
+
+ 
